@@ -193,3 +193,45 @@ nav .menu a{
 .resume-container hr{
     margin: 30px 0;
 }
+.text-center{
+
+    text-align: center;
+}
+footer{
+    margin-top: 130px;
+    background-color: #FFF8F3;
+    padding: 130px 0;
+}
+footer .footer-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    gap:116px;
+}
+.footer-container .social{
+    min-width: 562px;
+}
+.footer-container h2{
+    color: #474747;
+    font-size: 35px;
+    margin-bottom: 20px;
+
+}
+.footer-container p{
+    color: #474747;
+    line-height: 28px;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.footer-container .icons a {
+    margin-right: 24px;
+}
+.footer-container form input[type="text"], .footer-container form textarea{
+    width: 461px;
+    padding: 18px 31px;
+    margin: 24px;
+    border: none;
+    color: #757575;
+    border-radius: 5px;
+}
